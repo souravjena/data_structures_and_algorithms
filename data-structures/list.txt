@@ -5,7 +5,7 @@
 5. Trees
 6. Binary Trees
 7. BST
-8. Priority Queues
+8. Priority Queues/Heaps
 9. Tries
 10. Hashmaps
 11. Graphs
